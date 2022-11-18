@@ -101,6 +101,7 @@
         showErotic: true,
         showHentai: true,
         showSafe: true,
+        showSuggestive: true,
         userBlacklist: [],
       },
       isSeeAllEnabled: false,
